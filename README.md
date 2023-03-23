@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Areeba4427
-- 👀 I’m interested in coding softwares , websites and web calculators.
-- 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me areebasaleem4427@gmail.com
+![undraw_Programmer_re_owql](https://user-images.githubusercontent.com/85062485/227162659-19a1d194-ea94-4b82-890b-67f5583cf6de.png)
 
-I have been working as a Freelance web developer for an year. Currently I am learning Backend development.   
+- 👋 Hi, I’m Areeba Saleem, a third year computer science student at DHA Suffa University. I am currently working as a Web developer at Fiverr. I code web calculators , dashboards for my clients. My tech stack includes
+ 1. HTML5 
+ 2. CSS3 
+ 3. Javascript 
+ 4. Nodejs.
 
-<!---
-Areeba4427/Areeba4427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can work on following CMS as well.
+1. Wordpress
+2. Webflow
+3. Weebly
+
+
+These days,I am learning backend development to become a full stack developer in future.
