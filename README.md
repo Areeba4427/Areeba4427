@@ -14,3 +14,5 @@ I can work on following CMS as well.
 
 
 These days,I am learning backend development to become a full stack developer in future.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Areeba4427&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
