@@ -1,4 +1,5 @@
-![undraw_Programmer_re_owql](https://user-images.githubusercontent.com/85062485/227162659-19a1d194-ea94-4b82-890b-67f5583cf6de.png)
+
+![White Modern Graphic Designer LinkedIn Background Photo](https://user-images.githubusercontent.com/85062485/227606308-3cea3d16-7859-4a0a-b93c-4c8e903a02d5.png)
 
 - 👋 Hi, I’m Areeba Saleem, a third year computer science student at DHA Suffa University. I am currently working as a Web developer at Fiverr. I code web calculators , dashboards for my clients. My tech stack includes
  1. HTML5 
