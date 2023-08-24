@@ -2,10 +2,7 @@
 ![White Modern Graphic Designer LinkedIn Background Photo](https://user-images.githubusercontent.com/85062485/227606308-3cea3d16-7859-4a0a-b93c-4c8e903a02d5.png)
 
 - 👋 Hi, I’m Areeba Saleem, a third year computer science student at DHA Suffa University. I am currently working as a Web developer at Fiverr. I code web calculators , dashboards for my clients. My tech stack includes
- 1. HTML5 
- 2. CSS3 
- 3. Javascript 
- 4. Nodejs.
+  HTML5 | CSS3 | Javascript | Nodejs | Exrpressjs
 
 I can work on following CMS as well.
 1. Wordpress
