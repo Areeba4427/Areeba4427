@@ -1,16 +1,23 @@
-![](https://komarev.com/ghpvc/?username=Areeba4427)
 ![White Modern Graphic Designer LinkedIn Background Photo](https://user-images.githubusercontent.com/85062485/227606308-3cea3d16-7859-4a0a-b93c-4c8e903a02d5.png)
 
-- 👋 Hi, I’m Areeba Saleem, a third year computer science student at DHA Suffa University. I am currently working as a Web developer at Fiverr. I code web calculators , dashboards for my clients. My tech stack includes
-  HTML5 | CSS3 | Javascript | Nodejs | Exrpressjs
 
-I can work on following CMS as well.
-1. Wordpress
-2. Webflow
-3. Weebly
+# Hi there, I'm Areeba Saleem 👋
 
+🎓 Computer Science Student | 💻 Web Developer | 🌐 Full Stack Enthusiast
 
-These days,I am learning backend development to become a full stack developer in future.
+Welcome to my GitHub profile! I'm Areeba Saleem, a third-year computer science student at DHA Suffa University. Currently, I'm honing my skills as a web developer at Fiverr, where I specialize in creating web calculators and interactive dashboards for clients. My passion for crafting seamless online experiences drives me to explore and innovate in the world of web development.
+
+## 🚀 Skills and Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js
+- **Content Management Systems (CMS):** WordPress, Webflow, Weebly
+
+I'm excited to be on a journey to becoming a full stack developer. My current focus is on mastering backend development to complement my frontend expertise and offer end-to-end solutions that empower users through technology.
+
+## 🌱 Learning and Growing
+
+Constant learning is at the core of my development philosophy. I'm currently expanding my skill set to include backend technologies, enhancing my ability to create dynamic and data-driven web applications. As I work towards becoming a full stack developer, I'm always on the lookout for new challenges and opportunities to apply my skills.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Areeba4427&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
