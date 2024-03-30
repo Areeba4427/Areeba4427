@@ -1,6 +1,3 @@
-![White Modern Graphic Designer LinkedIn Background Photo](https://user-images.githubusercontent.com/85062485/227606308-3cea3d16-7859-4a0a-b93c-4c8e903a02d5.png)
-
-
 # Hi there, I'm Areeba Saleem 👋
 
 🎓 Computer Science Student | 💻 Web Developer | 🌐 Full Stack Enthusiast
