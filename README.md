@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm Areeba Saleem, a computer science graduate fro
 
 ## 🚀 Skills and Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
+- **Frontend:** HTML5, CSS3, JavaScript, Reactjs
+- **Backend:** Node.js, Express.js, Python
 - **Content Management Systems (CMS):** WordPress, Webflow, Weebly
 
 I'm excited to be on a journey to becoming a full stack developer. My current focus is on mastering backend development to complement my frontend expertise and offer end-to-end solutions that empower users through technology.
